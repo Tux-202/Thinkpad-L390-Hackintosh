@@ -29,4 +29,4 @@
     AirDrop: For fix, buy this wifi card
 
 ## Credits
-    https://github.com/antoniomcr96/Thinkpad-L390-Yoga-macOS-Opencore
+    [antoniomcr96](https://github.com/antoniomcr96/Thinkpad-L390-Yoga-macOS-Opencore)
