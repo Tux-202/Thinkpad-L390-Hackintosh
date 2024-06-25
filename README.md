@@ -10,7 +10,7 @@
 | Memory          |   16gb DDR4 (8Gx2)   |
 | Storage    |  NVME 256gb  |
 | GPU |  Intel(R) UHD Graphics 620  |
-| WLAN          |   Wireless 8265/8275   |
+| WLAN          |   Intel Wireless AC   |
 | Bluetooth    |  Intel Bluetooth(R)   |
 | Audio |   Realtek ALC257 @ layout-id 96  |
 | Display          |   13.3" 60Hz   |
